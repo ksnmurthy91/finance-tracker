@@ -1,0 +1,6 @@
+== README
+
+This README file is for the new finance tracker app
+
+
+--Initial GIT commit
